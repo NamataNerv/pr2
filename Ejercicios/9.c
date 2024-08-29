@@ -31,9 +31,9 @@ void primo(int x){
     
     if (c==2)
     {
-        printf("El numero es primo");
+        printf("Primo");
     } else
     {
-        printf("El numero no es primo");
+        printf("No Primo");
     }
 };
